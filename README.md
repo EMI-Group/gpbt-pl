@@ -21,5 +21,6 @@ To run the IMPALA experiment, use command:
       author={Hui Bai and Ran Cheng},
       journal={IEEE Transactions on Emerging Topics in Computational Intelligence},
       publisher = {IEEE},
-      year={2024}
+      year={2024},
+      doi={10.1109/TETCI.2024.3389777}
       }
