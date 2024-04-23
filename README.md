@@ -1,4 +1,4 @@
-# Generalized Population-Based Training With Pairwise Learning (GPBT-PL)
+# Generalized Population-Based Training with Pairwise Learning (GPBT-PL)
 
 Code for the Generalized Population-Based Training With Pairwise Learning (GPBT-PL) algorithm, from the paper *Generalized Population-Based Training for
 Hyperparameter Optimization in Reinforcement Learning*.
