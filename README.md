@@ -6,7 +6,7 @@ Hyperparameter Optimization in Reinforcement Learning*.
 The GPBT framework is implemented based on [ray](https://docs.ray.io/en/latest/ray-overview/getting-started.html). Heavily inspired by ray tune PBT example, GPBT-PL is included in the ray.tune library, which is the official supported implementation.
 
 
-##Running the code
+## Running the code
 
 To run the PPO experiment, use command:
 
@@ -17,7 +17,7 @@ To run the IMPALA experiment, use command:
     python run_impala.py
 
 
-##Citing GPBT-PL
+## Citing GPBT-PL
 
     @article{bai2024generalized,
       title={Generalized Population-Based Training for Hyperparameter Optimization in Reinforcement Learning}, 
